@@ -16,14 +16,6 @@ A simple and interactive stopwatch web app built using **HTML**, **CSS**, and **
 
 ---
 
-## 🖼️ Demo
-
-![Stopwatch Screenshot](screenshot.png)
-
-> _Add your own screenshot or a deployed demo link if hosted._
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML** – Structure of the application
